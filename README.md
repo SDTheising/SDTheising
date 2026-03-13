@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SDTheising
 - 👀 I’m interested in Maching Learning/AI, and Data Analysis.
-- 🌱 I’m currently learning to use Machine Learning for classifition and sentiment analysis, and database administration.
+- 🌱 I’m currently learning to use Machine Learning for classification and sentiment analysis, and database administration.
 - 💞️ I’m looking to collaborate on anything! 
 - 📫 How to reach me: theisingsamuel@gmail.com
 - 😄 Pronouns: He/Him
